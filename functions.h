@@ -1,0 +1,19 @@
+#ifndef __FUNCTIONS_H__
+#define __FUNCTIONS_H__
+void add();
+void minus();
+void multiply();
+void divided();
+void sinx();
+void arcsin();
+void cosx();
+void arccos();
+void 	tanx();
+void arctan();
+void 	logx();
+void log10x();
+void powx();
+void expx();
+void sqrtx();
+void tuichu();
+#endi
